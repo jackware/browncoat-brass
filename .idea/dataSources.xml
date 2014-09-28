@@ -5,6 +5,8 @@
       <driver-ref>postgresql</driver-ref>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://127.0.0.1/browncoat-brass_development</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfc8dfd3df9adfe8dfe9dfc0dfe1dfd0</user-password>
       <libraries>
         <library>
           <url>file://$USER_HOME$/Library/Preferences/RubyMine50/jdbc-drivers/postgresql-9.3-1100.jdbc4.jar</url>
@@ -15,6 +17,8 @@
       <driver-ref>postgresql</driver-ref>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://127.0.0.1/browncoat-brass_test</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfc8dfd3df9adfe8dfe9dfc0dfe1dfd0</user-password>
       <libraries>
         <library>
           <url>file://$USER_HOME$/Library/Preferences/RubyMine50/jdbc-drivers/postgresql-9.3-1100.jdbc4.jar</url>
